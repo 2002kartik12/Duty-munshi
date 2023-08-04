@@ -2,6 +2,7 @@
 This project basically schedule duty to the police officers.
 
 
+
 ![image](https://github.com/2002kartik12/Duty-munshi/assets/110666936/865aa4ff-fbac-4c8b-83e8-3b2ae3beca99)Front Page
 
 ![image](https://github.com/2002kartik12/Duty-munshi/assets/110666936/ab93360a-5bce-41bf-9305-c3cd1a60284e)
